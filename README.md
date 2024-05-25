@@ -1,3 +1,4 @@
 # project
-this is my first repository
+erri puvvu
+
 Author - Sanathkumar
